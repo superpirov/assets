@@ -1,0 +1,28 @@
+{
+    "name": "Friday Token",
+    "type": "BEP20",
+    "symbol": "FRD",
+    "decimals": 18,
+    "website": "https://fridaycapital.org/",
+    "description": "FRD is the native token of cryptocurrency hedge fund Friday Capital.",
+    "explorer": "https://bscscan.com/token/0x3eb094AB01E4456fA0BD0AB30ca7D1CEe107ef92",
+    "status": "active",
+    "id": "0x3eb094AB01E4456fA0BD0AB30ca7D1CEe107ef92",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/FRDcapital"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fridaycapital"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://fridaycapital.org/white-paper/"
+        },
+                   ],
+    "tags": [
+        "defi"
+    ]
+} 
